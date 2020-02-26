@@ -1,4 +1,4 @@
-# Team 11 - Phantom Developers
+# OpenMrs - Phantom Developers
 
 
 ## Team Members
