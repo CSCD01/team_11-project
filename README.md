@@ -9,5 +9,5 @@
 * Kelvin Duong (kelvin.duong@mail.utoronto.ca)
 
 ## Deliverables
-- [Deliverable 0 Team Introduction & Agreement](https://github.com/CSCD01/team_11-project/blob/master/deliverable_0/Team%2011%20deliverable%200.pdf)
-- [Deliverable 1 Software Architecture](https://github.com/CSCD01/team_11-project/blob/master/deliverable_1/Team_11_D1.pdf)
+- [Deliverable 0 - Team Introduction & Agreement](https://github.com/CSCD01/team_11-project/blob/master/deliverable_0/Team%2011%20deliverable%200.pdf)
+- [Deliverable 1 - Software Architecture](https://github.com/CSCD01/team_11-project/blob/master/deliverable_1/Team_11_D1.pdf)
