@@ -14,3 +14,4 @@
 
 ## Miscellaneous 
 - [Meeting Minutes](https://docs.google.com/document/d/18i2amC5pFEpyhYyK_gXGvpbLL92F1a5CzyyWwZSBtyw/edit#heading=h.vdg78os0zp80)
+- [Kanban Board](https://trello.com/b/yf8sGLys/team11-kanban-board)
