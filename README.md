@@ -1,4 +1,4 @@
-# OpenMrs - Phantom Developers
+# Team 11 - Phantom Developers
 ![Phantom Developers](https://openmrs.org/wp-content/uploads/2013/07/OpenMRS-logo.svg)
 
 ## Team Members
