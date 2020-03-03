@@ -5,7 +5,7 @@
 * Joon Hong (joonhong.hong@mail.utoronto.ca)
 * Jinze Li (jinze.li@mail.utoronto.ca)
 * Leo Chan (leyyc.chan@mail.utoronto.ca)
-* Lex Pegenia (lex.pegrnia@mail.utoronto.ca)
+* Lex Pegenia (lex.pegenia@mail.utoronto.ca)
 * Kelvin Duong (kelvin.duong@mail.utoronto.ca)
 
 ## Deliverables
