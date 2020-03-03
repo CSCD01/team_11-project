@@ -1,5 +1,5 @@
 # OpenMrs - Phantom Developers
-
+![Phantom Developers](https://openmrs.org/wp-content/uploads/2013/07/OpenMRS-logo.svg)
 
 ## Team Members
 * Joon Hong (joonhong.hong@mail.utoronto.ca)
