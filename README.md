@@ -11,7 +11,7 @@
 ## Deliverables
 - [Deliverable 0 - Team Introduction & Agreement](https://github.com/CSCD01/team_11-project/blob/master/deliverable_0/Team%2011%20deliverable%200.pdf)
 - [Deliverable 1 - Software Architecture](https://github.com/CSCD01/team_11-project/blob/master/deliverable_1/Team_11_D1.pdf)
-- [Deliverable 2 - Feature/Bug] (https://github.com/CSCD01/team_11-project/blob/master/deliverable_2/Deliverable%202.pdf)
+- [Deliverable 2 - Feature/Bug](https://github.com/CSCD01/team_11-project/blob/master/deliverable_2/Deliverable%202.pdf)
 ## Forked Repository
 - [Link to repository](https://github.com/Leochan6/openmrs-core)
 
