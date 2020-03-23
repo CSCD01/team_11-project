@@ -1,0 +1,36 @@
+CSC D01 Deliverable #1
+
+28/40
+
+Overall architecture: __7_ / 15
+
+   __2_ / 5 It is clear to the reader that the team correctly
+           understands the architecture of the project.
+
+
+   __2_ / 5 A reader, initially unfamiliar with the architecture of the
+           project, has a good overview of the project structure after
+           reading the report.
+
+   __3_ / 5 UML diagrams are correct, clear, and helpful.
+
+The report don't provide enough information about the business logic is structured in OpenMRS and how they interact with each other. From the report, it seems that the team messed up MVC's model and OpenMRS custom module.
+
+
+Software Process: _11__ / 15
+
+   __6_ / 7 Every aspect of the software process is explained to an adequate
+           level of detail.
+
+Expect more explantions about the reason why you choose to have (only) the 4 columns and what you would do to cards moved to these columns.
+
+   __5_ / 8 There is a thorough explanation of why this particular
+           process works for this particular team. The arguments for
+           the choice of the process and any modifications are
+           well-informed and well explained. The pros and cons of
+           different processes are carefully considered.
+
+What does it mean by "do not have to deliver after each iteration"?
+Kanban can be a way to implement incremental development. 6.3 need to be expanded.
+
+Presentation and Quality of Writing: _10__ / 10
