@@ -1,0 +1,33 @@
+CSC D01 Deliverable #3 Marking Rubric
+
+37/45
+
+__10_ / 10  (5 marks per issue) DETAILED issue descriptions for both issues considered, including UML diagrams, code traces, etc.
+
+__8_ / 10  Report on reasons for selecting the issue to implement, including
+DETAILED implementation plans.
+
+Should be more clear about throw which exception in which case. Mention if any new exception need to be created.
+
+_2__ / 5 A complete and comprehensive acceptance test suite for the selected issue.
+
+Expect details for each criterias (ie. what a user/developer should do to achieve a query/use the api? what do you mean by privileged clients? etc.)
+
+__7_ / 10  Architecture document. Now that we know more about architecture, we expect a more informed analysis. Among other aspects, the following should be discussed:
+-- architectural style; architectural pattern if applicable
+-- description of all components
+-- description of interfaces between components
+-- discussion of level of coupling between components
+-- discussion of cohesion of components
+-- how are each of the following addressed with architectural choices (if applicable)
+   -- performance
+   -- security
+   -- safety
+   -- availability
+   -- maintainability
+
+
+Should be more concreate about coupling/cohesion, maintainability, interface segregation, etc., instead of just listing the techniques the Spring framework provided.
+
+__10_ / 10 Presentation and Quality of Writing. Same criteria as before.
+
