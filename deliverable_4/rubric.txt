@@ -48,7 +48,7 @@ Process:  _15_ / 20
   Good use of repo:   _2_ / 5
      There should be evidence of a specific workflow adopted and enforced by the team.
 
-  -3： PR name confusing. Didn't properly ultilize the template. Didn't enforce the review.
+  -3: PR name confusing. Didn't properly ultilize the template. Didn't enforce the review.
 
   Good use of appropriate process management tools:  _3_ / 5
 
